@@ -19,6 +19,7 @@
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
+- [Interactive Dashboard](#-interactive-dashboard)
 - [Business Problem](#-business-problem)
 - [Methodology](#-methodology)
 - [Key Findings](#-key-findings)
@@ -34,6 +35,24 @@
 This project analyzes hospital patient data to identify key factors contributing to in-hospital mortality. By leveraging SQL analytics and interactive visualizations, we uncover patterns that can help healthcare professionals improve patient care and reduce mortality rates.
 
 **Dataset**: 10,000 patient records with comprehensive medical and demographic information
+
+---
+
+## 📊 Interactive Dashboard
+
+<div align="center">
+
+### Explore the Data Visually
+
+The interactive Tableau dashboard provides comprehensive insights into mortality patterns, risk factors, and patient demographics.
+
+[![Tableau Dashboard](Hospital%20Mortality%20Dashboard%20(Tableau).png)](https://public.tableau.com/app/profile/sharif.athar/viz/HospitalMortalityDashboard/Dashboard1)
+
+**[🔗 Click here to interact with the live dashboard](https://public.tableau.com/app/profile/sharif.athar/viz/HospitalMortalityDashboard/Dashboard1)**
+
+*The dashboard features interactive filters, trend analysis, and detailed breakdowns of all key metrics.*
+
+</div>
 
 ---
 
@@ -220,3 +239,4 @@ Feel free to reach out or open an issue!
 ### ⭐ If you found this project helpful, please consider giving it a star!
 
 </div>
+

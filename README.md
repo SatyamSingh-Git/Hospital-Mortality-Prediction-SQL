@@ -10,7 +10,7 @@
 
 [📊 View Dashboard](https://public.tableau.com/app/profile/sharif.athar/viz/HospitalMortalityDashboard/Dashboard1) • [💾 Dataset](https://www.kaggle.com/datasets/mitishaagarwal/patient) • [📝 SQL Code](https://github.com/SharifAthar/Hospital-Mortality-Prediction-SQL/blob/main/Hospital_Mortality_SQL_Analysis.sql)
 
-<img src="[https://media.istockphoto.com/id/1194838627/vector/patient-in-hospital.jpg?s=612x612&w=0&k=20&c=LqhY8qXr1IgGA0PjGLwqEyVJL-MBTFBU5rf3Dcg4DWo=](https://static.vecteezy.com/system/resources/previews/000/676/792/original/medical-concept-with-doctor-and-patients-in-flat-cartoon-at-hospital-hall.jpg)" alt="Hospital Patient" width="600"/>
+<img src="https://static.vecteezy.com/system/resources/previews/000/676/792/original/medical-concept-with-doctor-and-patients-in-flat-cartoon-at-hospital-hall.jpg" alt="Hospital Patient" width="600"/>
 
 </div>
 
